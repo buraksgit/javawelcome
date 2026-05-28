@@ -7,5 +7,6 @@ public class first {
         System.out.println("Please enter your age: ");
         int age = input.nextInt();
         System.out.println(age);
+        System.err.println("Goodbye, World !");
     }
 }
